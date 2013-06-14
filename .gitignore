@@ -2,6 +2,8 @@
 bin
 gen
 lint.xml
+build
+.gradle
 
 #Eclipse
 .project
